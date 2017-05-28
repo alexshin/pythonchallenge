@@ -60,3 +60,19 @@ In this case it was simple put the pseudocode image out to the console.
 ![output](https://github.com/alexshin/pythonchallenge/blob/master/assets/channel.png)
 
 As you can guess the next link is http://www.pythonchallenge.com/pc/def/channel.html
+
+
+### Level 7
+
+There was a quite difficult to guess this quizz. First at all you should guess to rename file
+in the url string from `channel.html` to `channel.zip`.
+
+File `channel.zip` contains dozens of files but only readme.txt is with hints.
+
+Then the solution is similar with "Level 5". You walk through files recursively and collect the
+comments (yes, zip-archive can have comments for the files).
+
+Result is:
+![output](https://github.com/alexshin/pythonchallenge/blob/master/assets/hockey.png)
+
+The next link is http://www.pythonchallenge.com/pc/def/hockey.html

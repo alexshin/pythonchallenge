@@ -29,7 +29,8 @@ The next link is http://www.pythonchallenge.com/pc/def/equality.html
 
 ### Level 4
 
-The task is pretty simple. It makes us to fresh the mind of regular expressions. Please launch "task4.py" to find sequence on the page.
+The task is pretty simple. It makes us to fresh the mind of regular expressions. Please launch 
+`task4.py` to find sequence on the page.
 
 The next link is http://www.pythonchallenge.com/pc/def/linkedlist.php
 
@@ -43,3 +44,19 @@ I used the Requests python library (it's a standard de-facto for hi-level librar
 My PC had been worked about 10 mintes to execute needed segment =)
 
 The next link is http://www.pythonchallenge.com/pc/def/peak.html
+
+
+### Level 6
+
+I looked into source code of the page and found strange tag which src attribute is `banner.p`. 
+This file contains sequence of rows. I really couldn't recognize what is it and was forced to find
+a solution in the Internet.
+
+The solution is quite simple. The file contains the object encoded by standard Pickle. This object 
+is a list of the lists of the turples. Each turple contains character and number of repetitions.
+In this case it was simple put the pseudocode image out to the console.
+
+
+[[https://github.com/alexshin/pythonchallenge/blob/master/assets/channel.png|alt=image]]
+
+As you can guess the next link is http://www.pythonchallenge.com/pc/def/channel.html

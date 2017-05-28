@@ -73,6 +73,17 @@ Then the solution is similar with "Level 5". You walk through files recursively 
 comments (yes, zip-archive can have comments for the files).
 
 Result is:
+
 ![output](https://github.com/alexshin/pythonchallenge/blob/master/assets/hockey.png)
 
 The next link is http://www.pythonchallenge.com/pc/def/hockey.html
+
+
+### Level 8
+
+I would have never guesed this solution =( There was needed to find unique sequence colors on 
+the picture and then show the chars for each color.
+
+You can see how to make it in the `task08.py`
+
+The next link is http://www.pythonchallenge.com/pc/def/integrity.html

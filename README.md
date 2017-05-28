@@ -57,6 +57,6 @@ is a list of the lists of the turples. Each turple contains character and number
 In this case it was simple put the pseudocode image out to the console.
 
 
-!(output)[https://github.com/alexshin/pythonchallenge/blob/master/assets/channel.png]
+![output](https://github.com/alexshin/pythonchallenge/blob/master/assets/channel.png)
 
 As you can guess the next link is http://www.pythonchallenge.com/pc/def/channel.html

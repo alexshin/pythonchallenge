@@ -10,7 +10,7 @@ The next link is http://www.pythonchallenge.com/pc/def/274877906944.html
 
 ### Level 2
 
-The second challenge contains Caesar cipher. You can use "task2.py" to decode the cipher.
+The second challenge contains Caesar cipher. You can use `task02.py` to decode the cipher.
 
 The next link is http://www.pythonchallenge.com/pc/def/ocr.html
 
@@ -22,7 +22,7 @@ Task gives you two ways how to solve its:
 
 * Using programming to decode source text from the page
 
-You can execute "task3.py" to clean up the garbage and to find the next segment of url.
+You can execute `task03.py` to clean up the garbage and to find the next segment of url.
 
 The next link is http://www.pythonchallenge.com/pc/def/equality.html
 
@@ -30,7 +30,7 @@ The next link is http://www.pythonchallenge.com/pc/def/equality.html
 ### Level 4
 
 The task is pretty simple. It makes us to fresh the mind of regular expressions. Please launch 
-`task4.py` to find sequence on the page.
+`task04.py` to find sequence on the page.
 
 The next link is http://www.pythonchallenge.com/pc/def/linkedlist.php
 
